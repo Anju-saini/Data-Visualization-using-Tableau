@@ -45,3 +45,5 @@ How does the average income ('INCOME') of drivers vary based on their education 
 Is there a relationship between the age of the car ('CAR_AGE') and the frequency of claims ('CLM_FREQ')? Does the age of the car influence the likelihood of claims being filed?
 Are there any differences in the distribution of claimed amounts ('CLM_AMT') between drivers who use their cars for different purposes ('CAR_USE')? How does this difference compare between gender ('GENDER') groups as well?
 Does the type of car ('CAR_TYPE') have an impact on the average worth of the car ('BLUEBOOK')? Additionally, can you identify any patterns in terms of marital status ('MSTATUS') and car type ('CAR_TYPE') combinations?
+Are there any differences in the distribution of claimed amounts ('CLM_AMT') between drivers who use their cars for different purposes ('CAR_USE')? How does this difference compare between gender ('GENDER') groups as well?
+Does the type of car ('CAR_TYPE') have an impact on the average worth of the car ('BLUEBOOK')? Additionally, can you identify any patterns in terms of marital status ('MSTATUS') and car type ('CAR_TYPE') combinations?
